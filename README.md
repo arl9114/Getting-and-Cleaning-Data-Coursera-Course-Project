@@ -1,4 +1,4 @@
-##== IMPORTANT - PLEASE READ ==
+#== IMPORTANT - PLEASE READ ==
 There are a few steps that you need to do before you can run the script successfully and replicate the outcome:
 * Install the necessary packages (dplyr,plyr,data.table)
 * Download & unzip the source data file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
@@ -9,7 +9,7 @@ There are a few steps that you need to do before you can run the script successf
 * Sit back & drink coffee ;)
 * You should get the same outcome that is uploaded to the submission page
 
-#== WHAT THE CODE DOES ==
+##== WHAT THE CODE DOES ==
 The comments in the code should be self explanatory. However, here's a big picture of what the code will do to your machine:
 * Read data files from the downloaded file to the R environment
 * Do the necessary data manipulation (e.g. merging, renaming columns, assigning variables) to the test observation

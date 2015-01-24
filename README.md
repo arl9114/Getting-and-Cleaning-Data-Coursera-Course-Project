@@ -7,7 +7,7 @@ There are a few steps that you need to do before you can run the script successf
 * Open R console, set your working directory using setwd() command to the same folder where you placed the data and source code
 * Run the code using 'source("run_analysis.R")' command
 * Sit back & drink coffee ;)
-* You should get the same outcome that is uploaded to the submission page
+* You should get the same outcome as the txt file that is uploaded to the submission page
 
 ##== WHAT THE CODE DOES ==
 The comments in the code should be self explanatory. However, here's a big picture of what the code will do to your machine:

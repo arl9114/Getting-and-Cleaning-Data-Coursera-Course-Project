@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Coursera-Course-Project
-\n== IMPORTANT - PLEASE READ ==
-\nThere are a few steps that you need to do before you can run the script successfully and replicate the outcome:
-\n1. Install the necessary packages (dplyr,plyr,data.table)
+##== IMPORTANT - PLEASE READ ==
+There are a few steps that you need to do before you can run the script successfully and replicate the outcome:
+1. Install the necessary packages (dplyr,plyr,data.table)
 2. Download & unzip the source data file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 3. Get the run_analysis.R source code
 4. Place the downloaded source data file and R source code in the same folder
